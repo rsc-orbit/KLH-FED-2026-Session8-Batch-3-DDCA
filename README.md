@@ -1,4 +1,4 @@
-# KLH-FED-2026-Session8-Batch-3-DDCA
+# KLH-FED-2026-Section8-Batch-3-DDCA
 # Design and Simulation of 8-bit Signed Binary Number Representation Using Sign-Magnitude Method
 
 ## Project Overview
